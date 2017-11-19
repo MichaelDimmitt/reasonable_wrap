@@ -4,7 +4,7 @@ every method expect callstack
 The halting problem 
 https://www.youtube.com/watch?v=hN63FOa_Gp4&feature=youtu.be&t=29m40s
 
-![example](https://user-images.githubusercontent.com/11463275/32986171-ca36654a-cc99-11e7-9f01-47935f15468b.png)
+![example](https://user-images.githubusercontent.com/11463275/32986184-151be292-cc9a-11e7-998e-47c08eb8c891.png)
 <br>in life, when you look in between two mirrors you see realities recursion.
 <br>realities recursion has a stack limit.
 <br>limited by the tool you are looking through. 
